@@ -1,9 +1,9 @@
 {
-  "name": "BetaBOT",
+  "name": "Rifky Bot",
   "version": "1.0.0",
   "description": "bot wa yang mudah untuk digunakan",
   "main": "index.js",
-  "directories": {
+  "directories: {
     "lib": "lib"
   },
   "dependencies": {
